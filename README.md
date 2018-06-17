@@ -10,4 +10,6 @@ So what I've done is made this little AppleScript (called `Fix_iTunes_names.scpt
 
 And then I added another Applescript (called `Fix_itunes_names_and_numbers.scpt`) for more adventurous folks that will also rename songs from 'dd-tt- Title of the Song' to just 'Title of the Song' and ALSO set the disc number and tarck number to dd and tt - but ONLY IF either number was blank to start with.
 
+The easiest way to run these is to download them (or even just copy the code) then run Script Editor on your Mac. Then open (or paste) the code and run it.
+
 You don't have to buy me a beer or anything, but if you want to, feel free - and thanks! http://paypal.me/dldnh
